@@ -1,0 +1,8 @@
+book,0
+music CD,10
+chocolate bar,0
+box of chocolates,0
+bottle of perfume,10
+packet of headache pills,0
+not found,0
+ ,0
